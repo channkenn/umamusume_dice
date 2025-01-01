@@ -1,5 +1,6 @@
 (function () {
   const selectedText = window.getSelection().toString().trim(); // 選択されたテキストを取得
+  const convertedText = convertToHalfWidth(selectedText); // 全角数字を半角に変換
   let textToCopy;
 
   // 選択されたテキストに応じた処理
@@ -389,3 +390,8 @@
       alert("クリップボードの操作に失敗しました: " + err);
     });
 })();
+function convertToHalfWidth(str) {
+  return str.replace(/[０-９]/g, function (match) {
+    return String.fromCharCode(match.charCodeAt(0) - 0xfee0);
+  });
+}
