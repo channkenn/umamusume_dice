@@ -62,10 +62,10 @@
       textToCopy = "アグネスデジタル";
       break;
     case "20":
-      textToCopy = "セイウンスカイ";
+      textToCopy = "タマモクロス";
       break;
     case "21":
-      textToCopy = "タマモクロス";
+      textToCopy = "セイウンスカイ";
       break;
     case "22":
       textToCopy = "ファインモーション";
@@ -146,10 +146,10 @@
       textToCopy = "ゼンノロブロイ";
       break;
     case "48":
-      textToCopy = "トーセンジョーダン";
+      textToCopy = "ナカヤマフェスタ";
       break;
     case "49":
-      textToCopy = "ナカヤマフェスタ";
+      textToCopy = "トーセンジョーダン";
       break;
     case "50":
       textToCopy = "ナリタタイシン";
@@ -209,169 +209,169 @@
       textToCopy = "キタサンブラック";
       break;
     case "69":
-      textToCopy = "サクラチヨノオー";
+      textToCopy = "メジロアルダン";
       break;
     case "70":
-      textToCopy = "シリウスシンボリ";
+      textToCopy = "サクラチヨノオー";
       break;
     case "71":
-      textToCopy = "メジロアルダン";
+      textToCopy = "シリウスシンボリ";
       break;
     case "72":
       textToCopy = "ヤエノムテキ";
       break;
     case "73":
-      textToCopy = "ツルマルツヨシ";
-      break;
-    case "74":
       textToCopy = "メジロブライト";
       break;
-    case "75":
-      textToCopy = "デアリングタクト";
-      break;
-    case "76":
-      textToCopy = "サクラローレル";
-      break;
-    case "77":
+    case "74":
       textToCopy = "ナリタトップロード";
       break;
-    case "78":
+    case "75":
       textToCopy = "ヤマニンゼファー";
       break;
-    case "79":
-      textToCopy = "フリオーソ";
-      break;
-    case "80":
-      textToCopy = "トランセンド";
-      break;
-    case "81":
-      textToCopy = "エスポワールシチー";
-      break;
-    case "82":
-      textToCopy = "ノースフライト";
-      break;
-    case "83":
-      textToCopy = "シンボリクリスエス";
-      break;
-    case "84":
-      textToCopy = "タニノギムレット";
-      break;
-    case "85":
-      textToCopy = "ダイイチルビー";
-      break;
-    case "86":
-      textToCopy = "メジロラモーヌ";
-      break;
-    case "87":
+    case "76":
       textToCopy = "アストンマーチャン";
       break;
-    case "88":
+    case "77":
       textToCopy = "サトノクラウン";
       break;
-    case "89":
+    case "78":
       textToCopy = "シュヴァルグラン";
       break;
-    case "90":
-      textToCopy = "ヴィルシーナ";
+    case "79":
+      textToCopy = "サクラローレル";
       break;
-    case "91":
-      textToCopy = "ヴィブロス";
+    case "80":
+      textToCopy = "ツルマルツヨシ";
       break;
-    case "92":
-      textToCopy = "ダンツフレーム";
-      break;
-    case "93":
-      textToCopy = "ケイエスミラクル";
-      break;
-    case "94":
-      textToCopy = "ジャングルポケット";
-      break;
-    case "95":
-      textToCopy = "ビリーヴ";
-      break;
-    case "96":
-      textToCopy = "ノーリーズン";
-      break;
-    case "97":
-      textToCopy = "スティルインラブ";
-      break;
-    case "98":
+    case "81":
       textToCopy = "コパノリッキー";
       break;
-    case "99":
+    case "82":
+      textToCopy = "シンボリクリスエス";
+      break;
+    case "83":
+      textToCopy = "タニノギムレット";
+      break;
+    case "84":
+      textToCopy = "デアリングタクト";
+      break;
+    case "85":
       textToCopy = "ホッコータルマエ";
       break;
-    case "100":
+    case "86":
       textToCopy = "ワンダーアキュート";
       break;
-    case "101":
-      textToCopy = "サムソンビッグ";
+    case "87":
+      textToCopy = "ダイイチルビー";
       break;
-    case "102":
-      textToCopy = "サウンズオブアース";
+    case "88":
+      textToCopy = "ケイエスミラクル";
       break;
-    case "103":
-      textToCopy = "ロイスアンドロイス";
+    case "89":
+      textToCopy = "メジロラモーヌ";
       break;
-    case "104":
+    case "90":
+      textToCopy = "ジャングルポケット";
+      break;
+    case "91":
       textToCopy = "カツラギエース";
       break;
-    case "105":
+    case "92":
       textToCopy = "ネオユニヴァース";
       break;
-    case "106":
+    case "93":
       textToCopy = "ヒシミラクル";
       break;
-    case "107":
+    case "94":
       textToCopy = "タップダンスシチー";
       break;
-    case "108":
+    case "95":
+      textToCopy = "サウンズオブアース";
+      break;
+    case "96":
+      textToCopy = "ノースフライト";
+      break;
+    case "97":
       textToCopy = "ドゥラメンテ";
       break;
-    case "109":
-      textToCopy = "ラインクラフト";
+    case "98":
+      textToCopy = "ヴィルシーナ";
       break;
-    case "110":
+    case "99":
+      textToCopy = "ヴィブロス";
+      break;
+    case "100":
+      textToCopy = "サムソンビッグ";
+      break;
+    case "101":
+      textToCopy = "ロイスアンドロイス";
+      break;
+    case "102":
       textToCopy = "シーザリオ";
       break;
-    case "111":
+    case "103":
+      textToCopy = "ラインクラフト";
+      break;
+    case "104":
       textToCopy = "エアメサイア";
       break;
-    case "112":
+    case "105":
       textToCopy = "デアリングハート";
       break;
-    case "113":
-      textToCopy = "フサイチパンドラ";
+    case "106":
+      textToCopy = "フリオーソ";
       break;
-    case "114":
-      textToCopy = "ブエナビスタ";
+    case "107":
+      textToCopy = "トランセンド";
       break;
-    case "115":
+    case "108":
+      textToCopy = "エスポワールシチー";
+      break;
+    case "109":
+      textToCopy = "ダンツフレーム";
+      break;
+    case "110":
+      textToCopy = "ノーリーズン";
+      break;
+    case "111":
+      textToCopy = "スティルインラブ";
+      break;
+    case "112":
       textToCopy = "オルフェーヴル";
       break;
-    case "116":
+    case "113":
       textToCopy = "ジェンティルドンナ";
       break;
-    case "117":
+    case "114":
       textToCopy = "ウインバリアシオン";
       break;
-    case "118":
+    case "115":
       textToCopy = "ドリームジャーニー";
       break;
-    case "119":
+    case "116":
+      textToCopy = "ブエナビスタ";
+      break;
+    case "117":
+      textToCopy = "ビリーヴ";
+      break;
+    case "118":
       textToCopy = "カルストンライトオ";
       break;
-    case "120":
+    case "119":
       textToCopy = "デュランダル";
       break;
-    case "121":
+    case "120":
       textToCopy = "バブルガムフェロー";
       break;
+    case "121":
+      textToCopy = "フサイチパンドラ";
+      break;
     case "122":
-      textToCopy = "サクラチトセオー";
+      textToCopy = "ブラストワンピース";
       break;
     case "123":
-      textToCopy = "ブラストワンピース";
+      textToCopy = "サクラチトセオー";
       break;
 
     default:
