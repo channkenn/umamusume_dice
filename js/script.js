@@ -376,7 +376,8 @@
       break;
 
     default:
-      textToCopy = "トレーナー";
+      textToCopy =
+        "https://bbs.animanch.com/board/4197912/\nhttps://bbs.animanch.com/img/4197912/1\nこの表に準じていますよ、トレーナー";
       break;
   }
 
