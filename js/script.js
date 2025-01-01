@@ -95,7 +95,7 @@
       textToCopy = "ライスシャワー";
       break;
     case "31":
-      textToCopy = "アイネスフウジン";
+      textToCopy = "https://bbs.animanch.com/img/4264261/712\nアイネスフウジン";
       break;
     case "32":
       textToCopy = "アグネスタキオン";
